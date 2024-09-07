@@ -1,2 +1,2 @@
-# js-all-code
+# Java-all-code
 A code repo of javascript
